@@ -8,6 +8,4 @@ let quotes = [
 "Do things for others not because of who you are or what they do in return, but because of who you are."
 ];
 
-module.export = {
-    quotes
-};
+module.exports = quotes;
